@@ -1,0 +1,1 @@
+/usr/bin/c++  -g  -rdynamic CMakeFiles/infinite_loop.dir/infinite_loop.cpp.o  -o infinite_loop 
